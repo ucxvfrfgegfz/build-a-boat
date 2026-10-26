@@ -19,6 +19,8 @@ Key highlights include:
 - 📦 **Block Dropper** — instantly drops the optimal block layout for maximum speed and buoyancy
 - 🚀 **Speed Boost** — activates all available speed bonuses and engine optimizations on launch
 
+### [⬇️ Download Build a Boat for Treasure Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
